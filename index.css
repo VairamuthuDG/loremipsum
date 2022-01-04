@@ -1,0 +1,49 @@
+#loreal{
+    height:30px;
+    width:60px;
+}
+
+.result{
+
+    width:600px;
+}
+
+.lorem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    height:90vh;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 1.4rem;;
+    width: 400px;
+    background-color: #ec9a29;
+
+}
+
+.result{
+    width:400px;
+    color:#3f2a2b;
+    font-size: 1.2rem;
+}
+
+body{
+    background-color: #2251a1;
+}
+
+h2{
+    color:midnightblue;
+}
+button{
+    background-color:maroon;
+    color:seashell;
+    border-radius: 7px;
+    font-size: 1.2rem;
+}
